@@ -2,4 +2,10 @@
 A conceptual multiplication app for younger children to practice.
 It's a quick build that's optimised for mobile devices. It works as an app being added to a devices homescreen if needed.
 
-- Select the "New Sum" to load another set to sight.
+- Select the "Next!" to load another set to sight.
+
+Icon sourced from:
+https://www.downloadclipart.net/large/multiplication-sign-png-background-image.png
+
+
+https://multiplication-study.netlify.app

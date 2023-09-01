@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     setFade(true);
-    const timer = setTimeout(() => setFade(false), 3000);
+    const timer = setTimeout(() => setFade(false), 2000);
     return () => clearTimeout(timer);
   }, [numbers]);
 
